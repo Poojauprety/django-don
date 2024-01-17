@@ -1,0 +1,9 @@
+# .gitignore
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
